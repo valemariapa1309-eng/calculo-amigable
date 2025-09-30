@@ -97,7 +97,7 @@ const Index = () => {
     <div className="min-h-screen flex items-center justify-center p-4 bg-gradient-to-br from-[hsl(280,60%,20%)] to-[hsl(320,70%,25%)]">
       <div className="w-full max-w-md">
         <h1 className="text-4xl font-bold text-center mb-8 text-foreground">
-          Calculadora
+          Calculadora Magica Rosada
         </h1>
         
         <div 
